@@ -9,13 +9,6 @@ body {
   top: 0;
   z-index: -1;
 }
-.wrapper {
-  min-height: 100vh;
-  display: flex;
-  align-items: center;
-  max-width: 1280px;
-  margin: auto;
-}
 .carousel {
   height: 100px;
   display: flex;
