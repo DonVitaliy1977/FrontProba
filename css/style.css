@@ -28,11 +28,6 @@ body {
   display: flex;
   animation: slideshow 10s linear infinite;
 }
-.slide__img {
-  height: 100px;
-  width: auto;
-  margin: 0 40px;
-}
 .carousel::after,
 .carousel::before {
   content: "";
